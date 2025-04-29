@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/tnevrlka-rhtap/eyecatcher-def:github-1efc4f692d272f055cdb05f5d924969c8dca80d9
+        - image: quay.io/tnevrlka-rhtap/eyecatcher-def:github-774206a1835d83b84dd16e29330d6f7e2f4bbcce
           name: container-image
